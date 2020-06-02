@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>APP</title>
+</head>
+<script src="bootstrap/js/jquery-3.4.0.js"></script>
+<script src="bootstrap/js/popper.min.js"></script>
+<script src="bootstrap/js/bootstrap.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/custom.css">
+<link rel="stylesheet" type="text/css" href="css/custom.css">
+<!--<link rel="stylesheet" href="bootstrap/css/w3.css">-->
+<body style="max-width: 400px">
+<h1>Javascript- Placement in HTML file</h1>
+<br><br>
+<div class="container">
+<p>
+There is a Flexibility given to include Javascript  code anywhere in an HTML document.However,the most preferred ways to include Javascript in an HTML file are as follows:
+<ul>
+    <li>Scripts in <span>head</span>section.</li>
+    <li>Scripts in <span>body</span>section.</li>
+    <li>Scripts in both <span>head and body</span>sections</li>
+</ul>
+<br>
+In the following section ,we wil show you how we can place Javascript in an HTML file in different ways.
+<br>
+<h3>Javascript in the <span>head</span> section.</h3>
+<br>
+If you want to have a script run on some event ,such as when a user clicks somewhere,then you will place that script on the head as follows-
+<br>
+/.............
+<br>
+<h3>Javascript in the <span>body</span> section</h3>
+<br>
+If you need a script to run as the page loads so that the script generates content in the page,then the script goes in the body portion of the document.In this case ,you would not have any function defined using Javascript.Take a look at the following code.
+//..........
+<br>
+<h3>Javascript in <span>body</span> sections</h3>
+<br>
+You can put your Javascript code in <span>head</span> and <span>body</span> section altogether as follows:
+<br>
+//.............
+<br>
+<h3>Javascript in External File</h3>
+<br>
+As you begin to work more extensively with Javascript,you will be likely to find that most cases you will  be reusing identical Javascript code on multiple pages of a Website.
+<br>
+You are not restricted to be maintaining identical code in multiple HTML files.The <span>script</span> tag provides a mechanism to allow you to store Javascript in an external file then include it to your HTML files. 
+<br>
+Here is an example to show how you can include an external Javascript file in your code using <span>script</span> tag and it's <span>src</span> attribute.
+<br>
+//...........
+<br>
+To use Javascript from an external file source,you need to write all your Javascript source code in a simple text file(who im i kidding get a text-editor and it will be easier to do this)with the extension <span>.js</span> and then include that file as shown above.
+<br>
+For example,you can keep the following content in <span>file.js</span> file and then you can use <span>sayHello</span> function in your HTML file after including the file.js file.
+<br>
+//.........
+<br>
+</p>
+    </div>
+    </body>
+    </html>
