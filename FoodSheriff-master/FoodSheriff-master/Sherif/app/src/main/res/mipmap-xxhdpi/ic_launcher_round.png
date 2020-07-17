@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e865062f-f2cf-4931-b8c5-e7fd2ed598c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/classy-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/credit-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/dan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/sed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/swa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/wed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/sed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/jquery-3.4.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/learn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/js/sed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/announce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/court.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/dan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/des.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/des.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/em.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/fac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/find.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/launch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/li.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/loc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/mes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/messer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/mine.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/ms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/nc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/pas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/sew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/show.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/spe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/three.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/images/world.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/od.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sos/Main2Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sos/Main3Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sos/Main4Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sos/Main5Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main42.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheriff/app/src/main/assets/Javascript_if_else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheriff/app/src/main/assets/Operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheriff/app/src/main/assets/Placement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheriff/app/src/main/assets/asad.html" afterDir="false" />
+      

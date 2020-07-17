@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e865062f-f2cf-4931-b8c5-e7fd2ed598c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/classy-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/credit-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/dan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/sed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/bootstrap/css/im/swa.png" afterDir="false" />
+      <change after
